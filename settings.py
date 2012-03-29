@@ -8,7 +8,7 @@ SITEURL = '/'
 GITHUB_URL = 'https://github.com/ScorpionResponse/'
 PDF_GENERATOR = False
 
-TIMEZONE = 'America/New York'
+TIMEZONE = 'America/New_York'
 DEFAULT_LANG='en'
 
 BYLINE = '&copy; 2012 Paul Moss &amp; co. All Rights Reserved.'
