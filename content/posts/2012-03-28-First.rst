@@ -16,6 +16,6 @@ no one else will ever find it.
 
 The blog is powered by `Pelican <http://pelican.notmyidea.org/>`_.  So far, I
 have found it fairly easy to get set up.  If I run into any snags, this'll be
-the place I put them.
+the place I document them.
 
 Here's to trying new things.
