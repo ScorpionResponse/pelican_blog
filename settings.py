@@ -17,3 +17,5 @@ BYLINE = '&copy; 2012 Paul Moss. All Rights Reserved.'
 DEFAULT_PAGINATION = 7
 
 GOOGLE_ANALYTICS = "UA-30458541-1"
+
+#CLEAN_URLS = True
