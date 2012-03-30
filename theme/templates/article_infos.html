@@ -1,8 +1,9 @@
 <footer class="post-info">
     <i>
-        By <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>, 
-        published on <time datetime="{{ article.date.strftime('%Y-%m-%d') }}" pubdate="pubdate">{{ article.date.strftime('%Y-%m-%d') }}</time>
-        in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>.
+        By {{ article.author }}, 
+        {# published on <time datetime="{{ article.date.strftime('%Y-%m-%d') }}" pubdate="pubdate">{{ article.date.strftime('%Y-%m-%d') }}</time> #}
+        published on <time>{{ article.date.strftime('%Y-%m-%d') }}</time> 
+        in <a href="{{ SITEURL }}/category/{{ article.category }}.html">{{ article.category }}</a>.
     </i>
     {% include 'taglist.html' %}
 </footer><!-- /.post-info -->
