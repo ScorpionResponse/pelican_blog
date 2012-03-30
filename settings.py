@@ -20,4 +20,6 @@ GOOGLE_ANALYTICS = "UA-30458541-1"
 
 #CLEAN_URLS = True
 
-FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'), ('extra/favicon.ico', 'favicon.ico'),)
+FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
+                 ('extra/favicon.ico', 'favicon.ico'),
+                 ('extra/CNAME', 'CNAME'),)
