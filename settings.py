@@ -4,7 +4,7 @@
 AUTHOR = u"Paul Moss"
 SITENAME = u":w! Ramblings"
 #SITESUBTITLE = u"Writings of a guy on the internet"
-SITEURL = '/'
+SITEURL = 'http://scorpionresponse.com'
 
 GITHUB_URL = 'https://github.com/ScorpionResponse/'
 PDF_GENERATOR = False
@@ -23,3 +23,6 @@ GOOGLE_ANALYTICS = "UA-30458541-1"
 FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
                  ('extra/favicon.ico', 'favicon.ico'),
                  ('extra/CNAME', 'CNAME'),)
+
+ARTICLE_URL = 'posts/{slug}.html'
+ARTICLE_SAVE_AS = 'posts/{slug}.html'
