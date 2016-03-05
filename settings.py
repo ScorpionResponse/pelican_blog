@@ -12,7 +12,7 @@ PDF_GENERATOR = False
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
 
-BYLINE = '&copy; 2012 Paul Moss. All Rights Reserved.'
+BYLINE = '&copy; 2016 Paul Moss. All Rights Reserved.'
 
 DEFAULT_PAGINATION = 7
 
