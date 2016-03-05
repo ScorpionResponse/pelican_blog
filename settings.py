@@ -24,7 +24,7 @@ GOOGLE_ANALYTICS = "UA-30458541-1"
 #                 ('extra/favicon.ico', 'favicon.ico'),
 #                 ('extra/CNAME', 'CNAME'),)
 
-STATIC_PATHS = ['extra']
+STATIC_PATHS = ['extra', 'images']
 
 EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},
                        'extra/favicon.ico': {'path': 'favicon.ico'},
