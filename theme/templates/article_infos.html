@@ -1,9 +1,0 @@
-<footer class="post-info">
-    <i>
-        By {{ article.author }}, 
-        {# published on <time datetime="{{ article.date.strftime('%Y-%m-%d') }}" pubdate="pubdate">{{ article.date.strftime('%Y-%m-%d') }}</time> #}
-        published on <time>{{ article.date.strftime('%Y-%m-%d') }}</time> 
-        in <a href="{{ SITEURL }}/category/{{ article.category }}.html">{{ article.category }}</a>.
-    </i>
-    {% include 'taglist.html' %}
-</footer><!-- /.post-info -->
