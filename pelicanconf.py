@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Paul Moss'
 SITENAME = ':w! Ramblings'
+SITESUBTITLE = 'Hazy visions through a crack in the world'
 SITEURL = ''
 
 PATH = 'content'
