@@ -12,7 +12,7 @@ PDF_GENERATOR = False
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
 
-BYLINE = '&copy; 2016 Paul Moss. All Rights Reserved.'
+BYLINE = '&copy; 2012-2017 Paul Moss. All Rights Reserved.'
 
 DEFAULT_PAGINATION = 7
 
@@ -31,5 +31,9 @@ EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},
                        'extra/CNAME': {'path': 'CNAME'}
                        }
 
-ARTICLE_URL = 'posts/{slug}.html'
+DISPLAY_PAGES_ON_MENU = True
+
+ARTICLE_URL = 'posts/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{slug}.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}.html'
