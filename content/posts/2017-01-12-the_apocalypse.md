@@ -82,13 +82,13 @@ was for the best.  You must not become us.
 You must live.
 
 -----
-Artifact: Last words of "humanity"
+**Artifact**: Last words of "humanity"
 
-Description: This message was found etched on a golden disc recovered from a
+**Description**: This message was found etched on a golden disc recovered from a
 ship floating in space by the Collective of Argus.  Their message was
 translated by the work of a scholarly enclave devoted to its study for 5 turns.
 
-Interpretation: The tone of the message suggests that "humanity" never knew any
+**Interpretation**: The tone of the message suggests that "humanity" never knew any
 Collective other than their own.  Although the message does not state this, it
 is generally believed that the "humanity" society all died before developing
 an understanding of basic common sense which everyone in the Collective knows
@@ -102,7 +102,7 @@ self-contradiction is inherent in their species and was likely a principle
 factor in their downfall.  Our collective structure prevents such
 self-delusions, so their words simply do not apply.
 
-Recommendation: Ship this artifact over to the Mound.  *They* will probably
+**Recommendation**: Ship this artifact over to the Mound.  *They* will probably
 benefit from the message more than we would.  Maybe they'll learn to live in a
 proper collective instead of in their unworkable *'community'* debacle before the
 fools all die off too.  Perhaps seeing the remnants of a collective from a
