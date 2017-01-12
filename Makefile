@@ -113,6 +113,7 @@ ftp_upload: publish
 
 s3_upload: publish
 	aws s3 sync --acl public-read --sse --delete $(OUTPUTDIR)/ s3://$(S3_BUCKET)
+	aws cloudfront create-invalidation --distribution-id E3ADHOYMDF28CE --paths '/*'
 
 cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
