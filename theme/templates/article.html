@@ -130,6 +130,7 @@
     </article>
 
     {% if article.tags %}
+    <hr>
         <div class="tags">
             <p>tags: {% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag | escape }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>
         </div>
