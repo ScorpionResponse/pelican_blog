@@ -41,13 +41,13 @@ no particular order:
   idiotic, but as a reality politics plotline it is eminently watchable.  
 * Pointless off-hand war mongering: Trump apparently has no problem dropping
   hints or suggestions that, if enacted, would lead to catastrophic wars.  This
-  can be seen in his comment about nuclear weapons
-  [http://www.msnbc.com/morning-joe/watch/trump-on-nukes-let-it-be-an-arms-race-840234051934]("Let
-  it be an arms race") or on his challenging of the "One China" policy or his
-  flippant suggestion that perhaps we should re-invade Iraq to
-  [https://www.washingtonpost.com/news/energy-environment/wp/2016/09/09/trump-thinks-the-u-s-should-take-the-oil-in-iraq-heres-why-that-is-not-so-easy/]("take
-  the oil.")  Critically, all of these things, if they should come to pass are
-  gross violations of international norms and insanely dangerous ideas that no
+  can be seen in his comment about nuclear weapons ["Let it be an arms
+  race"](http://www.msnbc.com/morning-joe/watch/trump-on-nukes-let-it-be-an-arms-race-840234051934)
+  or on his challenging of the "One China" policy or his flippant suggestion
+  that perhaps we should re-invade Iraq to ["take the
+  oil."](https://www.washingtonpost.com/news/energy-environment/wp/2016/09/09/trump-thinks-the-u-s-should-take-the-oil-in-iraq-heres-why-that-is-not-so-easy/)
+  Critically, all of these things, if they should come to pass are gross
+  violations of international norms and insanely dangerous ideas that no
   one in their right mind could possibly want.  These things all bring us
   closer to war with the only obvious upside being that we keep paying
   attention to Trump.
