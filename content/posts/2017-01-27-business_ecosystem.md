@@ -7,7 +7,7 @@ Dear Diary -
 
 10 minutes ago I read one of the most inane sentences I've ever come across.
 9 minutes and 55 seconds ago, my eyes rolled back so far into my head I
-couldn't see anything anymore, I fell out of my desk chair and started writhing
+couldn't see anything anymore.  I fell out of my desk chair and started writhing
 on the ground.  I think I started speaking in tongues.  For a while, yapping
 like a dog seemed to bring some relief to my situation.  The more aggressively
 I yapped the more the chaos and uncertainty of my tortured existence seemed to
