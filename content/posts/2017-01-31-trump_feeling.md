@@ -81,7 +81,7 @@ gives us that same kind of fear.  Because Donald Trump is president, I am no
 longer free.  I am in danger.  Having Donald Trump as president risks not just
 increasing the institutionalized racism, misogyny, xenophobia, homophobia but
 it adds to that list everyone who is not a Donald Trump loyalist.  I am not
-usually be in one of the groups listed in any list of -isms and -phobias.  But
+usually in one of the groups listed in any list of -isms and -phobias.  But
 now, because of Trump's election I have a feeling that if my life is
 inconvenient to Donald Trump he will take it from me without any consequences
 for him.  Of course he won't do this personally, but things in this country can
