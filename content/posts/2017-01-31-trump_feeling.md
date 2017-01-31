@@ -32,7 +32,7 @@ degree, but I understand that I have benefited from those things.  My ignorance
 of complicity in them probably means that I am guilty of supporting them
 through my direct action.  I have generally been open to the people in my life
 saying "Hey, asshole, thing X you're doing is bad and wrong!" and I will try to
-change my behavior.  None of this matter except to give you the context of who
+change my behavior.  None of this matters except to give you the context of who
 I am.
 
 Donald Trump's election isn't just dangerous because we will turn a blind eye
@@ -93,8 +93,9 @@ he desired.  You may, and I do, judge him harshly for that.  He paid for
 revenge with the lives of Americans and the lives of innocent civilians.
 History will not be kind to him.  Yet I do not believe that he did this
 capriciously and completely without regard for the cost.  He may have done it
-without proper *respect* for the cost.  He may have been misled or confused, but
-I don't believe he was flippantly disregarding American lives.
+without proper *respect* for the cost.  He may have been misled or confused or
+just some kind of moron, but I don't believe he was flippantly disregarding
+American lives.
 
 President Donald Trump will take your life for no greater reason than because
 he can.  You will die because "When you're president they let you do it."
@@ -133,7 +134,7 @@ who are completely safe it seems are members of Donald Trump's family.
 I am not trying to say that white people are special in being threatened by
 Trump like this.  I am only trying to point out why the perception exists that
 white people are unusually upset about this.  Feeling existentially threatened
-in this fashion is new to us, so forgive us if it is shocking.  If "trump"
+in this fashion is new to us, so forgive us if it is shocking.  If "Trump"
 wasn't becoming synonymous with a million other terrible things, I'd suggest we
 call this a "Trump Feeling" and it could be used to communicate with white
 people, a la:
