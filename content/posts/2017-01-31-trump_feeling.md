@@ -162,5 +162,6 @@ good news is that they are not very good at their jobs, they are just unusually
 evil and vile beyond what we have protections for.  If we come through this
 with the country still in tact, we'll be able to protect against it happening
 again.  At the very least, we'll all be together to try to withstand it and
-help one another through.  Maybe your children will get a chance to be as
-ignorant of the Trump Feeling as white people were 4 months ago.
+help one another through.  Maybe your children or your children's children will
+get a chance to be as ignorant of the Trump Feeling as white people were 4
+months ago.
