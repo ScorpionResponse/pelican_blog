@@ -46,3 +46,5 @@ PAGE_SAVE_AS = 'pages/{slug}/index.html'
 FOOTER_INCLUDE = 'footer_custom.html'
 
 SHOW_FULL_ARTICLE = True
+
+PLUGINS = ['plugins.embed_tweet']
