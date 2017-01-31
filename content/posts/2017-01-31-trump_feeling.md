@@ -12,8 +12,8 @@ problem or white people are unduly upset about it.
 Even just after election night there was an [SNL sketch about it](http://www.nbc.com/saturday-night-live/video/election-night/3424956?snl=1).
 
 As a white person, this whole Trump nonsense gives me the screaming
-heebee jeebees.  I'd just as soon let the politics happen however more informed
-people think is important, IDGAF.  My white privilege assures me that I
+heebee jeebees.  I'd just as soon let the politics happen according to more
+informed people's opinions, IDGAF.  My white privilege assures me that I
 can ignore things which I find in any way inconvenient.  I guess you could say
 I'm a Democrat since I typically would vote that way, but mostly I just prefer
 when things make sense.  I believe that it is part of the government's role to
@@ -24,15 +24,16 @@ know if the parties break down like that anymore.
 
 Also as a white person, I benefit from racism.  As a man, I benefit from
 sexism.  It is great to have benefits.  If you get the chance to be a
-run-of-the-mill straight, white man I suggest you try it.  What is not so great
-that my benefits come at the expense of others.  That cost is not worth the
-benefits that I get, at least not for me.  Now I may not believe that I am in some
-way personally responsible for racism or sexism to any significant degree, but
-I understand that I have benefited from those things.  My ignorance of
-complicity in them probably means that I am guilty of supporting them through
-my direct action.  I have generally been open to the people in my life saying
-"Hey, asshole, thing X you're doing is bad and wrong!" and I will try to change
-my behavior.  None of this matter except to give you the context of who I am.
+run-of-the-mill straight, white man I suggest you try it for a while.  What is
+not so great that my benefits come at the expense of others.  That cost is not
+worth the benefits that I get, at least not for me.  Now I may not believe that
+I am in some way personally responsible for racism or sexism to any significant
+degree, but I understand that I have benefited from those things.  My ignorance
+of complicity in them probably means that I am guilty of supporting them
+through my direct action.  I have generally been open to the people in my life
+saying "Hey, asshole, thing X you're doing is bad and wrong!" and I will try to
+change my behavior.  None of this matter except to give you the context of who
+I am.
 
 Donald Trump's election isn't just dangerous because we will turn a blind eye
 to some racist policies or some traditional American oppression.  We certainly
