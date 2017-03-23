@@ -48,3 +48,5 @@ FOOTER_INCLUDE = 'footer_custom.html'
 SHOW_FULL_ARTICLE = True
 
 PLUGINS = ['plugins.embed_tweet']
+
+DISPLAY_PAGES_ON_MENU = True
