@@ -1,6 +1,6 @@
 Title: How to completely fail at API design
 Date: 2017-04-07
-header_cover: /images/code_head.jpg
+header_cover: /images/code_head2.png
 Category: general
 Tags: API
 
