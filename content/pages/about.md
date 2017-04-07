@@ -1,4 +1,4 @@
-Title: About Me
+Title: Paul Moss - Product Management and Development Consultant
 
 # About Me
 
