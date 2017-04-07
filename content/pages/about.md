@@ -1,7 +1,10 @@
+Title: About Me
+
 # About Me
 
 I am a former product manager who writes code.  I provide consulting services
-to companies in both subjects and all areas in between.
+to companies in both subjects and all areas in between.  I am based in the USA
+in the EST/EDT timezone.  I do all of my work remotely.
 
 ## Product Management
 
@@ -42,7 +45,33 @@ Importantly, I can work to understand your needs.  I can offer suggestions
 about your software based on your business needs and I can help write the
 requirements before coding them so that you get the software you really need.
 
+## API Design
+
+This work I do to make the world a better place.  Most APIs are terrible.  The
+reason they are terrible is precisely the overlap between the two things above.
+APIs have a purpose, just like the user interface for your application.
+Because they are hidden, developer only things many APIs are added as an
+afterthought instead of with any direction or intention.  Imagine just slopping
+out a user interface that looked like the Windows File Explorer - Details View
+simply because you couldn't be bothered to consider that your users really want
+Instragram's UI instead.  That is precisely how most APIs are developed.
+Developers across the world will thank you just for coming up with a few simple
+use cases for API clients and then satisfying those.  
+
+You will save yourself a massive headache and company shaking event years down
+the road if you answer one simple question **before you put your API out into
+the world**:
+
+* Should the API support building a feature complete, better looking version of
+  our in house developed UI?
+
+Both Yes and No are perfectly valid answers.  But I will warn you now, if you
+become hugely popular and *only then* do you realize that the API enables this
+but you don't want it to happen, then you are in for a world of pain.  And that
+pain could have been easily avoided just by answering that one question up
+front.
+
 ## Contact Me
 
-If either of those things sounds interesting or necessary to you or your
-company, send me an email: moss.paul@gmail.com.  
+If any of those things sounds interesting or necessary to you or your company,
+send me an email <moss.paul@gmail.com> and we can talk.
